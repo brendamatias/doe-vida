@@ -9,7 +9,8 @@
 <p align="center">
   <a href="#ghost-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#rocket-iniciando-aplicação">Iniciando aplicação</a>
+  <a href="#rocket-iniciando-aplicação">Iniciando aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#star-acesse">Acesse</a>
 </p>
 
 <br>
@@ -26,7 +27,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## :computer: Projeto
 
-O projeto consiste em uma página estática sobre doação de sangue. Desenvolvido durante a Maratona Dev 03 pela [Rocketseat](https://github.com/Rocketseat) 🚀.
+O projeto consiste em uma página estática sobre doação de sangue.
+Desenvolvido durante a Maratona Dev 03 pela [Rocketseat](https://github.com/Rocketseat) :rocket:.
 
 ## :rocket: Iniciando aplicação
 
@@ -34,6 +36,10 @@ O projeto consiste em uma página estática sobre doação de sangue. Desenvolvi
 - Mova-se para diretório da aplicação: `cd doe-vida`;
 - Execute `yarn install` ou `npm install` para instalar as dependências;
 - Inicie a aplicação com `yarn serve` ou `npm serve`;
+
+## :star: Acesse
+
+O projeto pode ser visto clicando [aqui](https://brendamatias.github.io/doe-vida/).
 
 ---
 
